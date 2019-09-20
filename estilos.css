@@ -1,0 +1,46 @@
+header {
+    padding: 30px;
+    margin:auto;
+} 
+
+body {background-attachment:fixed;
+      background-repeat: no-repeat;
+      background-size: cover
+
+}
+
+.caja1 {
+    float: left;
+    width: 32%;
+    padding: 10px;
+    height: 33%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.caja2 {
+    width: 32%;
+    padding: 10px;
+    height: 33%;
+    margin: auto;
+}
+
+.p {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:rgb(39, 15, 39);
+  background-color: rgb(159, 188, 197);
+  font-size: 15px;
+}
+
+.caja3 {
+    width: 32%;
+    padding: 10px;
+    height: 33%;
+    margin-top: 23px;
+    background-color: rgb(159, 188, 197);
+    float: right;
+}
+
+.footer {
+    padding:20px;
+    margin:auto;
+} 
